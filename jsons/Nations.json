@@ -623,37 +623,6 @@
 			"Thibaw","Wuntho","Namhkam","Mandalay","Myanaung","Pakokku","Tiddim","Haka","Ngapali"]
         },
 	{
-		"name": "Danzig",
-		"leaderName": "Carl Jacob Burckhardt",
-		"adjective": ["Danzigian"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
-
-		"startIntroPart1": "Carl Jaco Burckhardt, a Swiss diplomat and historian. Your career alternated between periods of academic historical research and diplomatic postings; the most prominent of the latter were League of Nations High Commissioner for the Free City of Danzig (1937–39) and President of the International Committee of the Red Cross (1945–48). Oh, Carl. Can you once again become a great leader? Can you spread your prosperity throughout the world? Can you build a civilization that will stand the test of time?",
-
-		"declaringWar": "It has been agreed that this is necessary!",
-		"attacked": "The League of Nations will prevent this aggression! I know it!",
-		"defeated": "Go ahead and take it.",
-		"introduction": "Griezi, I am Carl Jacob Burckhardt, High Commissioner for the Free City of Danzig."
-
-		"neutralHello": "Griezi.",
-		"hateHello": "...",
-
-		"tradeRequest": "This is necessary for the presevation of both of our nations.",
-
-		"outerColor": [24, 79, 138],
-		"innerColor": [255, 248, 233],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Free City",
-		"uniques": ["[+999999]% Culture cost of natural border growth [in all cities]", "[+2 Happiness] [in all cities]", "[+50]% Unhappiness from [Population] [in all cities]", "May not annex cities", "[+20]% [Science] [in all cities]", "[+20]% [Gold] [in all cities]", "[+20]% [Culture] [in all cities]", "[+20]% [Production] [in all cities]"]
-		"cities": ["Danzig","Gdynia","Sopot","Westerplatte","Oliva","Langfuhr","Neufahrwasser","Ohra","Schidlitz","St. Albrecht",
-			"Schönfeld","Neugarten","Heubude","Emaus","Petershagen","Heiligenbrunn","Langgarten","Neuschottland",
-			"Saspe","Praust","Tiegenhof","Neuteich","Frauendorf","Schönbaum","Marienburg","Elbing","Zoppot",
-			"Brösen","Stolzenberg","Mattenbuden","Schönfelde","Pillau","Brösen","Heubude","Nickelswalde","Kahlbude",
-			"Altschottland","Reinhardtsdorf","Bohnsack","Krampitz","Scharfenberg","Neuteich","Oliva","Praust",
-			"Langfuhr","Neufahrwasser"]
-        },
-	{
 		"name": "Kongo",
 		"leaderName": "Nzinga a Nkuwu",
 		"adjective": ["Kongoan"],
