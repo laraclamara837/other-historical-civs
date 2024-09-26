@@ -967,18 +967,6 @@
 		"cities": ["Edessa"]
 	},
 	{
-		"name": "Antioch",
-		"adjective": ["Antiochian"],
-		"cityStateType": "Militaristic",
-
-		"declaringWar": "In the name of God, Christ, and the Holy Spirit, I SHALL RIP YOU APART!",
-		"attacked": "YOU INSIGNIFICANT HEATHEN!",
-		"defeated": "May your woes be many, and your days few.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [173,0,17],
-		"cities": ["Antioch"]
-	},
-	{
 		"name": "Tripoli",
 		"adjective": ["Tripolitan"],
 		"cityStateType": "Militaristic",
